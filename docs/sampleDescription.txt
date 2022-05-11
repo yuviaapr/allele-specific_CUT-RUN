@@ -1,0 +1,6 @@
+clone,sample,reads1,reads2,type
+CaR_NPC-r1,H3K27ac,/scratch/user/CaR_data/CUTandRUN_NPC_lane1r1H3K27ac2_1_sequence.txt.gz,/scratch/user/CaR_data/CUTandRUN_NPC_lane1r1H3K27ac2_2_sequence.txt.gz,histone
+CaR_NPC-r1,IgG,/scratch/user/CaR_data/CUTandRUN_NPC_lane1r1IgG1_1_sequence.txt.gz,/scratch/user/CaR_data/CUTandRUN_NPC_lane1r1IgG1_2_sequence.txt.gz,control
+CaR_NPC-r2,CTCF,/scratch/user/CaR_data/CUTandRUN_NPC_lane1r2CTCF1_1_sequence.txt.gz,/scratch/user/CaR_data/CUTandRUN_NPC_lane1r2CTCF1_2_sequence.txt.gz,TF
+CaR_NPC-r2,H3K27ac,/scratch/user/CaR_data/CUTandRUN_NPC_lane1r2H3K27ac2_1_sequence.txt.gz,/scratch/user/CaR_data/CUTandRUN_NPC_lane1r2H3K27ac2_2_sequence.txt.gz,histone
+CaR_NPC-r2,IgG,/scratch/user/CaR_data/CUTandRUN_NPC_lane1r2IgG1_1_sequence.txt.gz,/scratch/user/CaR_data/CUTandRUN_NPC_lane1r2IgG1_2_sequence.txt.gz,control
